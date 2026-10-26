@@ -1,0 +1,7 @@
+[15:02:42][PluginLoader][WARNING] Plugins directory not found.
+[15:02:42][NATTCore][INFO] NATT CORE initialization done
+Version: 1.7.0 
+Configuration path: https://gitlab.com/ap5vs/test-config/telnet-client-config/-/raw/main/test-config-2.yaml?ref_type=heads
+Configuration loading mode: FROM URL
+[15:02:42][NATTCore][INFO] Working directory path: C:\Users\simon\Desktop\telnet-client
+[15:02:42][NATTCore][INFO] Start loading of the configuration file ...
